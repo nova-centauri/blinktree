@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Start here",
+    "url": "#TODO-start-here",
+    "primary": true
+  },
+  {
+    "label": "X / Twitter",
+    "url": "https://x.com/MemeFolder_"
+  },
+  {
+    "label": "GitHub",
+    "url": "#TODO-github-profile"
+  },
+  {
+    "label": "Best project",
+    "url": "#TODO-best-project"
+  },
+  {
+    "label": "Contact",
+    "url": "#TODO-contact"
+  }
+]
