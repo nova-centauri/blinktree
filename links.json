@@ -1,10 +1,5 @@
 [
   {
-    "label": "Start here",
-    "url": "#TODO-start-here",
-    "primary": true
-  },
-  {
     "label": "X / Twitter",
     "url": "https://x.com/MemeFolder_"
   },
@@ -13,11 +8,28 @@
     "url": "https://github.com/nova-centauri"
   },
   {
-    "label": "Best project",
-    "url": "#TODO-best-project"
+    "label": "Instagram",
+    "url": "https://www.instagram.com/1280mhz/"
   },
   {
-    "label": "Contact",
-    "url": "#TODO-contact"
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/steven-barrett-185417219/"
+  },
+  {
+    "label": "Core Job Track",
+    "url": "https://corejobtrack.com",
+    "primary": true
+  },
+  {
+    "label": "Requip Market",
+    "url": "https://requipmarket.com"
+  },
+  {
+    "label": "Mane Match",
+    "url": "https://mane-match.com"
+  },
+  {
+    "label": "Mane Match Game",
+    "url": "https://game.mane-match.com"
   }
 ]
