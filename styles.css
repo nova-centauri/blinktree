@@ -58,8 +58,8 @@ body {
   width: 88px;
   height: 88px;
   border-radius: 50%;
-  display: grid;
-  place-items: center;
+  object-fit: cover;
+  display: block;
   font-weight: 700;
   letter-spacing: 0.04em;
   color: var(--bg);
