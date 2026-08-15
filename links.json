@@ -1,5 +1,10 @@
 [
   {
+    "label": "Backlink Hunter",
+    "url": "https://github.com/nova-centauri/backlink-hunter-skill",
+    "primary": true
+  },
+  {
     "label": "X / Twitter",
     "url": "https://x.com/1280MHz"
   },
@@ -17,8 +22,7 @@
   },
   {
     "label": "Core Job Track",
-    "url": "https://corejobtrack.com",
-    "primary": true
+    "url": "https://corejobtrack.com"
   },
   {
     "label": "Requip Market",
