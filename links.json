@@ -5,12 +5,20 @@
     "primary": true
   },
   {
-    "label": "X / Twitter",
+    "label": "X",
     "url": "https://x.com/1280MHz"
   },
   {
-    "label": "GitHub",
+    "label": "Github 1 Nova",
     "url": "https://github.com/nova-centauri"
+  },
+  {
+    "label": "Github 2 MSL",
+    "url": "https://github.com/midstatelitho"
+  },
+  {
+    "label": "Github 3 Barrett Software",
+    "url": "https://github.com/barrettsoftware"
   },
   {
     "label": "Instagram",
@@ -19,6 +27,10 @@
   {
     "label": "LinkedIn",
     "url": "https://www.linkedin.com/in/steven-barrett-185417219/"
+  },
+  {
+    "label": "Midstate Litho",
+    "url": "https://midstatelitho.com"
   },
   {
     "label": "Core Job Track",
